@@ -1,5 +1,5 @@
 backend:
-name: github
+name: git-gateway
 repo: lucasg2155/cec
 media_folder: static/assets
 public_folder: assets
